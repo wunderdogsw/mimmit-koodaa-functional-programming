@@ -1,0 +1,174 @@
+[
+  {
+    "name": "Lily",
+    "age": 2,
+    "breed": "domestic",
+    "favoriteToys": [
+      "laser pointer",
+      "catnip"
+    ]
+  },
+  {
+    "name": "Tiger",
+    "age": 1,
+    "breed": "domestic",
+    "favoriteToys": [
+      "scratching post"
+    ]
+  },
+  {
+    "name": "Stripes",
+    "age": 7,
+    "breed": "Maine coon",
+    "favoriteToys": [
+      "stuffed mouse",
+      "catnip"
+    ]
+  },
+  {
+    "name": "Tabitha",
+    "age": 3,
+    "breed": "Birman",
+    "favoriteToys": [
+      "laser pointer",
+      "catnip",
+      "stuffed mouse"
+    ]
+  },
+  {
+    "name": "Monaco",
+    "age": 2,
+    "breed": "Manx",
+    "favoriteToys": [
+      "laser pointer"
+    ]
+  },
+  {
+    "name": "Minnie",
+    "age": 7,
+    "breed": "domestic",
+    "favoriteToys": [
+      "stuffed mouse",
+      "catnip"
+    ]
+  },
+  {
+    "name": "Ash",
+    "age": 3,
+    "breed": "Maine coon",
+    "favoriteToys": [
+      "laser pointer",
+      "stuffed mouse"
+    ]
+  },
+  {
+    "name": "Mango",
+    "age": 1,
+    "breed": "Manx",
+    "favoriteToys": [
+      "scratching post",
+      "laser pointer",
+      "stuffed mouse"
+    ]
+  },
+  {
+    "name": "Blackie",
+    "age": 5,
+    "breed": "domestic",
+    "favoriteToys": [
+      "stuffed mouse",
+      "catnip"
+    ]
+  },
+  {
+    "name": "Chess",
+    "age": 5,
+    "breed": "American shorthair",
+    "favoriteToys": [
+      "laser pointer",
+      "catnip"
+    ]
+  },
+  {
+    "name": "Licorice",
+    "age": 4,
+    "breed": "Manx",
+    "favoriteToys": [
+      "scratching post",
+      "laser pointer",
+      "catnip"
+    ]
+  },
+  {
+    "name": "Paprika",
+    "age": 6,
+    "breed": "domestic",
+    "favoriteToys": [
+      "laser pointer",
+      "scratching post"
+    ]
+  },
+  {
+    "name": "Daisy",
+    "age": 1,
+    "breed": "Maine coon",
+    "favoriteToys": [
+      "laser pointer"
+    ]
+  },
+  {
+    "name": "Friendly",
+    "age": 9,
+    "breed": "domestic",
+    "favoriteToys": [
+      "scratching post",
+      "catnip"
+    ]
+  },
+  {
+    "name": "Saffron",
+    "age": 3,
+    "breed": "Birman",
+    "favoriteToys": [
+      "scratching post",
+      "laser pointer",
+      "catnip"
+    ]
+  },
+  {
+    "name": "Freya",
+    "age": 12,
+    "breed": "domestic",
+    "favoriteToys": [
+      "laser pointer",
+      "catnip",
+      "stuffed mouse"
+    ]
+  },
+  {
+    "name": "Ghost",
+    "age": 10,
+    "breed": "American shorthair",
+    "favoriteToys": [
+      "scratching post",
+      "stuffed mouse"
+    ]
+  },
+  {
+    "name": "Henrietta",
+    "age": 4,
+    "breed": "American shorthair",
+    "favoriteToys": [
+      "catnip"
+    ]
+  },
+  {
+    "name": "Purry",
+    "age": 9,
+    "breed": "domestic",
+    "favoriteToys": [
+      "laser pointer",
+      "scratching post"
+    ]
+  }
+]
