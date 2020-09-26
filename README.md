@@ -81,7 +81,7 @@ this array: `['apple', 'banana', 'mango', 'pear', 'pineapple']` should be return
 #### 4.1. Buggy bookstore
 
 This is the first (and only) exercise where the model solution uses an external library. To install the dependencies,
-run `yarn install` in the project root.
+run `npm install` in the project root.
 
 `exercises/4_1_Buggy-bookstore.js` contains a script that defines the inventory of an imaginary online bookstore as 
 well as functions for manipulating a user's shopping cart. Try running and examining the script. What happens to the
