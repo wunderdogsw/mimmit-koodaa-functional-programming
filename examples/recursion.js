@@ -10,7 +10,7 @@ function countDown(number, countDownText) {
 
 function main() {
   // The first two entries in argv are path to the Node.js executable and the script file name.
-  const number = process.argv[2]
+  const number = parseInt(process.argv[2], 10)
   const message = countDown(number, '')
   console.log(message)
 }
